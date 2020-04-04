@@ -1,0 +1,82 @@
+﻿NOTE :
+
+wordpress  thạch phạm 
+5 plugin tự động đăng bài lên mạng xã hội- Thạch phạm 
+yoast seo 
+- Social auto poster 
+- Cài google analytics - QUAN TRỌNG
+https://www.hostinger.vn/huong-dan/lam-the-nao-de-chen-code-google-analytics-vao-wordpress/ 
+- Cài SEO quake để kiểm tra 
+- Site maps
+- Tối ưu web wordpress và php
+
+- GOOLE SEARCH CONSOLE 
+CHECK KEYWORD DIFICULT 
+AHREFS.COM - ahref seo - vicent do/ youtube : 100k/tháng 
+(mạnh nhất, check độ khó, đối thủ cạnh tranh, .. )
+- keyword tool.io - search lượng truy cập, trend , độ khó trên các mạng xã hội , google 
+-keyword planner 
+- bảng giá ahreft - https://www.facebook.com/MuachungAhrefs/photos/a.973943069412060/1537365126403182/?type=3&theater 
+- Instantlink index 
+- 
+
+
+
+- Tối ưu web 
+- Plugin public mạng xã hội
+- Plugin Seo, chuẩn seo 
+- Analytics 
+- Search console 
+- Ahfref Vicent Do
+- Keywordtool.io
+- Keywordplanner 
+- IFTTT - giống auto post , cài đc cho GG Calender: setup đăng bài tự động theo giờ lên các mạng xã hội, đăng trang cá nhân, fanpage FB --- ĐA NỀN TẢNG BLOGGER, PHP , WP
+Hướng dẫn thiết lập IFTTT - Vcent DO 
+- Content
+- Back link - vicent do : backlink comment, profile , bookmark,
+
+
+
+FB Ads: 
+
+- Cài đặt tk quảng cáo : cài đặt - chọn phương thức thanh toán : FB cần trên 1 tháng, thẻ tech com 
+- Cài phương thức thanh toán chính 
+- Cách tối ưu qungr cáo cho FB 
+- Trình quản lí quảng cáo , test quảng cáo 
++ Search test quảng cáo cho FB 
+https://www.youtube.com/watch?v=qoop0bzcxWg
++ Set Đối tượng 
+Vị trí , tuổi, giới tính , sở thích 20, 30 cái , 
+Quảng cáo đuổi trên FB 
+Remarketing 
++ Vị trí ieenrthij quảng cáo 
++ Lịch chạy quảng cáo theo giờ hoạt động của đối tượng 
++ Theo dõi bằng Pixel : add vào web của mình 
++ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
